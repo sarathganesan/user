@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "name": "Bob uosiop",
+      "createdOn": "2022-01-01",
+      "gender": "male",
+      "dob": "1985-03-15",
+      "city": "Los Angeles",
+      "state": "CA",
+      "pincode": "90001",
+      "modifiedOn": "2022-01-02"
+    },
+    {
+      "id": 5,
+      "name": "Bob uosiop",
+      "createdOn": "2022-01-01",
+      "gender": "male",
+      "dob": "1985-03-15",
+      "city": "Los Angeles",
+      "state": "CA",
+      "pincode": "90001",
+      "modifiedOn": "2022-01-02"
+    }
+  ]
+}
